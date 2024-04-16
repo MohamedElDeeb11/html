@@ -1,0 +1,72 @@
+#name{
+    text-align: center;
+    font-size: 40px;
+}
+img{
+    width: 400px;
+    height: 500px;
+}
+h1{
+    font-size: 40px;
+}
+#About{ 
+    border-width: 5px;
+    border-style: solid;
+    border-color: aqua;
+}
+#About p{
+    font-size: 25px;
+}
+#About a{
+    font-size: 25px;
+    font-style: italic;
+    color: chartreuse;
+}
+
+.one{
+    text-align: center;
+    font-size: 30px;
+}
+#hobbies{ 
+    padding: 30px;
+}
+body{
+    background-image: url(./imgs/صور-خلفيات-سوداء-فخمة-للموبايل-وللتصميم-4k-حب0.jpg);
+    font-style: italic;
+    color:white;
+}
+#edu{
+    border-width: 5px;
+    border-style: solid;
+    border-color: aqua;
+}
+#edu p{
+    font-size: 25px;
+}
+#SKils{
+    border-width: 5px;
+    border-style: solid;
+    border-color: aqua;
+}
+#SKils li{
+    font-size: 25px;
+}
+#Hobbies{
+    border-width: 5px;
+    border-style: solid;
+    border-color: aqua;
+}
+#Jobs{
+    border-width: 5px;
+    border-style: solid;
+    border-color: aqua;
+}
+#Jobs li{
+    font-size: 25px;
+}
+form{
+    font-size: 30px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: aqua;
+}
